@@ -140,7 +140,7 @@
                 <h2>Principal's Message</h2>
 
 
-                <div class="row border-bottom">
+                <div class="row">
                     <div class="col-md-9 col-sm-8 col-12 principal-message">
                         <p>Post Graduate Govt. College Sector 11, now a Co-educational Institute, was established in
                             1953. Over the years, our illustrious students have carved a niche for themselves in fields
@@ -178,7 +178,7 @@
                 </div>
             </div>
 
-            <div class="slidebox border">
+            <div class="slidebox w-100">
                 <div class="slide-head">College Latest Events</div>
                 <div class="carousel-container">
                     <div class="carousel-slide">
@@ -338,12 +338,10 @@
             </div>
         </div>
 
-        <div class="copyright">
+        <div class="copyright py-4">
             Copyright © Post Graduate Government College, Sector 11, Chandigarh, India |
             
-            Designed by <a class="text-decoration-none text-light" href="https://github.com/VinaySharma77">Vinay Sharma</a>  &
-            
-            <a class="text-decoration-none text-light" href="https://github.com/MayankDevil/">Mayank</a>
+            Designed by <a class="text-decoration-none text-light" href="https://github.comVinaySharma77">VinaySharma</a> & <a class="text-decoration-none text-light" href="https://github.com/MayankDevil/">Mayank</a>
         
         </div>
     
